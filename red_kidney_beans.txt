@@ -6,3 +6,4 @@ A new addition to the taco recipe collection
 * lime
 * salt
 * pepper
+* tomatoes
